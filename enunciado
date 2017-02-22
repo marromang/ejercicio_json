@@ -1,0 +1,5 @@
+1. Lista la fecha, el tipo de accidente y numero de vehiculos involucrados.
+2. Muestra los tipos de accidente y cuantos hay de cada tipo.
+3. Pide por teclado una fecha y muestra los accidentes de ese dia, con sus características.
+4. Pide por teclado una dirección y muestra cuantos accidentes se han producido de cada tipo.
+5. Pide por teclado un tipo de herido (ilesos, leves , graves o muertos) y un numero minimo y muestra los accidentes con el numero indicado de heridos de ese tipo,
